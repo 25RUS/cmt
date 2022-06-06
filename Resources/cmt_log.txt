@@ -1,0 +1,536 @@
+08.05.2022 13:27:55 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 108
+08.05.2022 13:29:08 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 108
+08.05.2022 13:29:08 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 108
+08.05.2022 13:30:04 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 108
+08.05.2022 13:30:31 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 109
+08.05.2022 13:31:02 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 109
+08.05.2022 13:31:41 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 109
+08.05.2022 13:31:41 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 109
+08.05.2022 13:31:56 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 109
+08.05.2022 13:34:57 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 110
+08.05.2022 13:35:02 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 110
+08.05.2022 13:35:02 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 110
+08.05.2022 13:35:07 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 110
+08.05.2022 13:39:52 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:39:56 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:39:56 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:39:57 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:41:55 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:41:55 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:41:55 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:41:55 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 111
+08.05.2022 13:52:42 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 106
+08.05.2022 13:52:43 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 106
+08.05.2022 13:52:43 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 106
+08.05.2022 13:52:43 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 106
+08.05.2022 13:55:09 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 13:55:09 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 13:55:25 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 13:55:25 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 13:58:03 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 102
+08.05.2022 13:58:31 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 102
+08.05.2022 13:58:38 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 102
+08.05.2022 13:58:43 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 102
+08.05.2022 14:21:43 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 14:21:43 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:45:28 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:45:28 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:47:00 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:47:00 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:47:51 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:47:51 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:50:41 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:50:41 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:51:21 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:51:21 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 105
+08.05.2022 23:52:08 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:52:08 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:52:40 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:52:40 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:54:53 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:54:53 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:57:13 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:57:13 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:58:07 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+08.05.2022 23:58:07 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+09.05.2022 20:35:58 /dev/ttyUSB0: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB0' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+09.05.2022 20:35:58 /dev/ttyUSB0: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB0' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+09.05.2022 20:35:58 /dev/ttyUSB0: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB0' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+09.05.2022 20:35:58 /dev/ttyUSB0: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB0' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 107
+09.05.2022 23:50:45 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+09.05.2022 23:50:45 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+09.05.2022 23:52:41 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+09.05.2022 23:52:41 /dev/ttyUSB4: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB4' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+09.05.2022 23:52:41 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+09.05.2022 23:52:42 /dev/ttyUSB5: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 93
+10.05.2022 00:16:12 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 91
+10.05.2022 00:16:12 /dev/ttyUSB4: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 91
+10.05.2022 00:16:13 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 91
+10.05.2022 00:16:14 /dev/ttyUSB5: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 91
+10.05.2022 00:18:33 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:18:33 /dev/ttyUSB4: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:18:33 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:18:34 /dev/ttyUSB5: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:23:11 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:23:11 /dev/ttyUSB4: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:23:11 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 00:23:12 /dev/ttyUSB5: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.Initialize.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/Initialize.cs:line 92
+10.05.2022 01:15:51 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+10.05.2022 01:15:51 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+10.05.2022 01:19:05 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+10.05.2022 01:19:05 /dev/ttyUSB2: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+11.05.2022 20:52:38 /dev/ttyUSB1: 
+ System.IO.IOException: Invalid argument
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+11.05.2022 20:52:51 /dev/ttyUSB0: 
+ System.IO.IOException: Invalid argument
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 22
+26.05.2022 00:07:55 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 68
+26.05.2022 00:07:55 /dev/ttyUSB2: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB2' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 68
+26.05.2022 00:17:45 /dev/ttyUSB1: 
+ System.IO.IOException: Broken pipe
+   at System.IO.Ports.SerialStream.set_DtrEnable(Boolean value)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 68
+26.05.2022 00:17:46 /dev/ttyUSB2: 
+ System.UnauthorizedAccessException: Access to the port '/dev/ttyUSB2' is denied.
+ ---> System.IO.IOException: No such file or directory
+   --- End of inner exception stack trace ---
+   at System.IO.Ports.SafeSerialDeviceHandle.Open(String portName)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at CMT.Modem.TERMINAL.Write2Port(String portName, String command) in /home/adnet/CODE/CMT/Modem/TERMINAL.cs:line 68
